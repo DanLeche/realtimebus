@@ -1,6 +1,6 @@
 # Real Time Bus Tracker Exercise
 ## Overview
-In this exercise we show how you can track the MIT public bus route in real time with APIs and Google Maps.
+In this exercise we show how you can track the MIT and Harvard public bus route in real time with APIs and Google Maps thankt to some JavaScript coding.
 
 ## How To Run
 Just open the index.html file and the map will load by itself. It will say that the page can't load Google Maps correctly, but it will work just fine so just ignore that message.
